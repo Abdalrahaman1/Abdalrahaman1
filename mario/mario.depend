@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637551870 source:f:\emb projects\mario\main.c
+	"mario.h"
+
+1637551870 f:\emb projects\mario\mario.h
+	<stdio.h>
+	<stdlib.h>
+
+1637551877 source:f:\emb projects\mario\mario.c
+	"mario.h"
+
