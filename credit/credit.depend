@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637546119 source:f:\emb projects\credit\main.c
+	"credit.h"
+
+1637546478 source:f:\emb projects\credit\credit.c
+	"credit.h"
+
+1637542508 f:\emb projects\credit\credit.h
+	<stdio.h>
+	<stdlib.h>
+
