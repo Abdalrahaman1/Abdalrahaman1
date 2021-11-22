@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637550006 source:f:\emb projects\cash\main.c
+	"cash.h"
+
+1637550006 source:f:\emb projects\cash\cash.c
+	"cash.h"
+
+1637550006 f:\emb projects\cash\cash.h
+	<stdio.h>
+	<stdlib.h>
+
