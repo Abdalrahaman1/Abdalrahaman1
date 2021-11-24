@@ -52,7 +52,7 @@ void Design (signed short x)
 
         Print_hashtage(i);
 
-        printf(" ");
+        printf("  ");
 
         Print_hashtage(i);
 
