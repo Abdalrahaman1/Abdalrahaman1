@@ -34,7 +34,7 @@ void Print_hashtage (unsigned char j)
 
 void Print_space (unsigned char j)
 {
-    while(hight - j)
+    while((hight - j)+1)
         {
             printf(" ");
             j++;
@@ -45,7 +45,7 @@ void Print_space (unsigned char j)
 void Design (signed short x)
 {
     unsigned char i;
-    for(i=min ; i<=hight ; i++)
+    for(i=min ; i<=x ; i++)
     {
 
         Print_space(i);
