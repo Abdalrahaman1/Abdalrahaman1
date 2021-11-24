@@ -3,20 +3,20 @@
 
 void cash (void)
 {
-    signed short money = 0;
+    float money = 0;
 
     Check(&money);
 
-    printf("The sum is:%hi",sum_change (money));
+    printf("The sum is:%hi",sum_change ((money*100) + 0.5));
 }
 
 
-void Check (signed short* x)
+void Check (float* x)
 {
     do
     {
         printf("Enter the money:");
-        scanf("%hi",x);                             //x is the same as &(*x)
+        scanf("%f",x);                             //x is the same as &(*x)
     }while((*x)<0);
 }
 
