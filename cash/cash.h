@@ -6,7 +6,7 @@
 
 
 void cash (void);
-void Check (signed short *x);
+void Check (float* x);
 unsigned short sum_change (signed short money);
 
 
