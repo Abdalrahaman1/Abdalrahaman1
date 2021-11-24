@@ -34,7 +34,7 @@ void Print_hashtage (unsigned char j)
 
 void Print_space (unsigned char j)
 {
-    while((hight - j)+1)
+    while(hight - j)
         {
             printf(" ");
             j++;
