@@ -56,8 +56,6 @@ void Design (signed short x)
 
         Print_hashtage(i);
 
-        Print_space(i);
-
         printf("\n");
     }
 }
