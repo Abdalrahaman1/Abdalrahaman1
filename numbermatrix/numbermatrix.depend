@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638175354 source:f:\emb projects\numbermatrix\main.c
+	"numbermatrix.h"
+
+1638178054 source:f:\emb projects\numbermatrix\numbermatrix.c
+	"numbermatrix.h"
+
+1638175317 f:\emb projects\numbermatrix\numbermatrix.h
+	<stdio.h>
+	<stdlib.h>
+
