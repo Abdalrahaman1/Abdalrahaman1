@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639033209 source:f:\emb projects\sort\main.c
+	"sort.h"
+
+1639098217 f:\emb projects\sort\sort.h
+	<stdio.h>
+	<stdlib.h>
+
+1639098757 source:f:\emb projects\sort\sort.c
+	"sort.h"
+
