@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639333546 source:f:\emb projects\tideman\main.c
+	"tideman.h"
+
+1639404834 f:\emb projects\tideman\tideman.h
+	<stdio.h>
+	<stdlib.h>
+
+1639409463 source:f:\emb projects\tideman\tideman.c
+	"tideman.h"
+
